@@ -1,0 +1,14 @@
+
+.video-js .vjs-control-bar .vjs-play-control {
+    pointer-events: none;
+}
+
+.video-js  {
+    pointer-events: none;
+}
+  .video-js .vjs-big-play-button {
+    pointer-events: fill;
+}
+  .video-js .vjs-control-bar {
+    pointer-events: fill;
+}
