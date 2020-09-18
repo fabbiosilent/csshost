@@ -1,0 +1,12 @@
+{
+  "align": "bottom-left",
+  "showBackground": 1,
+  "attachToControlBar": 0,
+  "overlays": [
+    {
+      "start": "playing",
+      "end": "paused",
+      "content": ""
+    }
+  ]
+}
